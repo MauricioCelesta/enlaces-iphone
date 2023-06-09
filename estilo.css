@@ -1,0 +1,7 @@
+h1, h2, h3 {
+	color: rgb(0, 0, 0);
+/*esta etiqueta aplica a h1, h2, y h3 estilos de color negro fuerte*/ }
+	p { color: rgb(50, 50, 50); 
+/*esta etiqueta pone a los párrafos color negro tenue*/}
+		body { background-color: white; 
+/*en esta etiqueta pongo al body fondo de color blanco*/}
